@@ -1,10 +1,10 @@
 This README file provides an overview of the To-Do List project, along with instructions on how to set it up and run it. It also includes a demo video showcasing the project's functionality. 
 
-# 1. Project Overview:
+## 1. Project Overview:
 
 The To-Do List project is a web-based application built using HTML, CSS, and JavaScript. It allows users to create, manage, and organize tasks. The application provides a user-friendly interface for adding, editing, and deleting tasks.
 
-# 2. Project Structure:
+## 2. Project Structure:
 
    - The HTML file (index.html) serves as the main entry point for the application. It contains the necessary structure and layout for displaying the tasks and user interactions.
 
@@ -12,7 +12,7 @@ The To-Do List project is a web-based application built using HTML, CSS, and Jav
 
    - The JavaScript file (script.js) handles the logic behind adding, editing, deleting, and marking tasks as completed. It also manages the storage of tasks using the browser's local storage.
 
-# 3. Setup:
+## 3. Setup:
 
    To set up the To-Do List project, follow these steps:
 
@@ -20,7 +20,7 @@ The To-Do List project is a web-based application built using HTML, CSS, and Jav
 
    - Open the index.html file in a web browser of your choice.
 
-# 4. Usage:
+## 4. Usage:
 
    Once the application is running, you can perform the following actions:
 
@@ -31,7 +31,7 @@ The To-Do List project is a web-based application built using HTML, CSS, and Jav
    - Delete a task by clicking the "Delete" button next to the task.
     
 
-# 5. Demo Video:
+## 5. Demo Video:
     
 
 https://github.com/ayishays83/todolist/assets/84435965/8940533b-2120-4a8a-99df-1681ed7a76d9
